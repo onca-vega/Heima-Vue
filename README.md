@@ -94,7 +94,7 @@ MIT license.
 
 [Spanish]: https://github.com/onca-vega/Heima-Vue/blob/master/docs/README.md
 [semver]: https://semver.org/spec/v2.0.0.html
-[Heima-Vue]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/header.png
-[Heima]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/favicon.png
+[Heima-Vue]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/header30.png
+[Heima]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/favicon30.png
 [Vue]: https://vuejs.org/
 [onca-vega]: https://github.com/onca-vega
