@@ -4,7 +4,7 @@
 * [Spanish]
 
 ## Introduction
-![alt text][Heima]Heima is a development skeleton series designed to allow a faster starting for the JavaScript frameworks use.
+![alt text][Heima]eima is a development skeleton series designed to allow a faster starting for the JavaScript frameworks use.
 Heima for [Vue] allows you to get a quick start for your projects into powerful [Vue] framework.
 
 ## Starting

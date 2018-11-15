@@ -4,7 +4,7 @@
 * [Inglés]
 
 ## Introducción
-![alt text][Heima]Heima se refiere a una serie de esqueletos de desarrollo, diseñados para facilitar un comienzo más rápido para el uso de los frameworks de JavaScript. Heima for [Vue] the permite iniciar de una forma más rápida tus proyectos mediante el poderoso framework [Vue].
+![alt text][Heima]eima se refiere a una serie de esqueletos de desarrollo, diseñados para facilitar un comienzo más rápido para el uso de los frameworks de JavaScript. Heima for [Vue] the permite iniciar de una forma más rápida tus proyectos mediante el poderoso framework [Vue].
 
 ## Comenzando
 Clonar el repositorio en un directorio local.
