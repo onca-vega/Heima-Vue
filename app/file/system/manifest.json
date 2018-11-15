@@ -1,0 +1,19 @@
+{
+  "name": "Heima for Vue",
+  "short_name": "Heima-Vue",
+  "description": "Skeleton for web applications based on vueJS framework",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background-color": "#e6e6e6",
+  "theme_color": "#e6e6e6",
+  "lang": "es-MX",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "../../image/icon/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

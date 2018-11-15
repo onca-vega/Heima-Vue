@@ -1,0 +1,57 @@
+{
+  "name": "heima-vue",
+  "version": "0.1.0",
+  "description": "Skeleton for web applications based on vueJS framework",
+  "main": "app/js/app.js",
+  "scripts": {
+    "build": "npm audit fix --force & webpack --config webpack.dev.js",
+    "build-watch": "npm audit fix --force & webpack --watch --config webpack.dev.js",
+    "build-prod": "npm audit fix --force & webpack --config webpack.prod.js",
+    "serve-o": "webpack-dev-server --open --config webpack.dev.js",
+    "serve-node": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onca-vega/Heima-Vue.git"
+  },
+  "keywords": [
+    "vueJS"
+  ],
+  "author": "Marcos Jesús Chávez Vega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onca-vega/Heima-Vue/issues"
+  },
+  "homepage": "https://github.com/onca-vega/Heima-Vue#readme",
+  "dependencies": {
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "express": "^4.16.4",
+    "neysla": "^2.4.3",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/preset-env": "^7.1.5",
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-polyfill": "^6.26.0",
+    "clean-webpack-plugin": "^0.1.19",
+    "css-loader": "^1.0.1",
+    "file-loader": "^2.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.23.1",
+    "sw-precache-webpack-plugin": "^0.11.5",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.17",
+    "w3c-manifest-loader": "^1.2.4",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10",
+    "webpack-manifest-plugin": "^2.0.4",
+    "webpack-merge": "^4.1.4"
+  }
+}
