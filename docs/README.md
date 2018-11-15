@@ -1,10 +1,11 @@
-![alt text][Heima-Vue]Heima for [Vue]
+![Heima for Vue][Heima-Vue]Heima for [Vue]
 ============
+![Version](https://img.shields.io/badge/package-v0.1.1-orange.svg)
 ## Traducciones
 * [Inglés]
 
 ## Introducción
-![alt text][Heima]eima se refiere a una serie de esqueletos de desarrollo, diseñados para facilitar un comienzo más rápido para el uso de los frameworks de JavaScript. Heima for [Vue] the permite iniciar de una forma más rápida tus proyectos mediante el poderoso framework [Vue].
+![Heima][Heima]eima se refiere a una serie de esqueletos de desarrollo, diseñados para facilitar un comienzo más rápido para el uso de los frameworks de JavaScript. Heima for [Vue] the permite iniciar de una forma más rápida tus proyectos mediante el poderoso framework [Vue].
 
 ## Comenzando
 Clonar el repositorio en un directorio local.

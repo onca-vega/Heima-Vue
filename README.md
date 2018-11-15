@@ -1,10 +1,11 @@
-![alt text][Heima-Vue]Heima for [Vue]
+![Heima for Vue][Heima-Vue]Heima for [Vue]
 ============
+![Version](https://img.shields.io/badge/package-v0.1.1-orange.svg)
 ## Translations
 * [Spanish]
 
 ## Introduction
-![alt text][Heima]eima is a development skeleton series designed to allow a faster starting for the JavaScript frameworks use.
+![Heima][Heima]eima is a development skeleton series designed to allow a faster starting for the JavaScript frameworks use.
 Heima for [Vue] allows you to get a quick start for your projects into powerful [Vue] framework.
 
 ## Starting
