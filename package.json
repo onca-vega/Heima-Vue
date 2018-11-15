@@ -15,7 +15,10 @@
     "url": "git+https://github.com/onca-vega/Heima-Vue.git"
   },
   "keywords": [
-    "vueJS"
+    "javascript",
+    "js",
+    "skeleton",
+    "vue"
   ],
   "author": "Marcos Jesús Chávez Vega",
   "license": "MIT",
