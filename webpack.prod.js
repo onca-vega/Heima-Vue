@@ -1,7 +1,7 @@
 const path = require("path");
 const webpack = require("webpack");
 const merge = require("webpack-merge");
-const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
+const TerserPlugin = require("terser-webpack-plugin");
 const SwPrecacheWebpackPlugin = require("sw-precache-webpack-plugin");
 const common = require("./webpack.common.js");
 
@@ -20,9 +20,7 @@ module.exports = merge(common, {
     new webpack.DefinePlugin({          // Setting production mode
       "process.env.NODE_ENV": JSON.stringify("production")
     }),
-    new UglifyJsPlugin({
-      sourceMap: true
-    }),
+    new TerserPlugin(),
     new SwPrecacheWebpackPlugin({
       cacheId: "asbioybasiy%_Heima-Vue_%dvas=!%%#23423",
       filename: "serviceWorker.js",

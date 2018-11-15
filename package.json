@@ -1,6 +1,6 @@
 {
   "name": "heima-vue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Skeleton for web applications based on vueJS framework",
   "main": "app/js/app.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.11",
     "express": "^4.16.4",
-    "neysla": "^2.4.3",
+    "neysla": "^2.4.4",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
@@ -44,7 +44,7 @@
     "html-webpack-plugin": "^3.2.0",
     "style-loader": "^0.23.1",
     "sw-precache-webpack-plugin": "^0.11.5",
-    "uglifyjs-webpack-plugin": "^2.0.1",
+    "terser-webpack-plugin": "^1.1.0",
     "vue-loader": "^15.4.2",
     "vue-template-compiler": "^2.5.17",
     "w3c-manifest-loader": "^1.2.4",
