@@ -1,6 +1,6 @@
 {
   "name": "heima-vue",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Skeleton for web applications based on vueJS framework",
   "main": "app/js/app.js",
   "scripts": {
