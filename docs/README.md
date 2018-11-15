@@ -1,7 +1,10 @@
-Heima for Vue
+![alt text][Heima-Vue]Heima for [Vue]
 ============
 ## Traducciones
 * [Inglés]
+
+## Introducción
+![alt text][Heima]Heima se refiere a una serie de esqueletos de desarrollo, diseñados para facilitar un comienzo más rápido para el uso de los frameworks de JavaScript. Heima for [Vue] the permite iniciar de una forma más rápida tus proyectos mediante el poderoso framework [Vue].
 
 ## Comenzando
 Clonar el repositorio en un directorio local.
@@ -90,4 +93,7 @@ Licencia MIT.
 
 [Inglés]: https://github.com/onca-vega/Heima-Vue/blob/master/README.md
 [semver]: https://semver.org/spec/v2.0.0.html
+[Heima-Vue]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/header.png
+[Heima]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/favicon.png
+[Vue]: https://vuejs.org/
 [onca-vega]: https://github.com/onca-vega

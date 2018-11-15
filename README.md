@@ -1,7 +1,11 @@
-Heima for Vue
+![alt text][Heima-Vue]Heima for [Vue]
 ============
 ## Translations
 * [Spanish]
+
+## Introduction
+![alt text][Heima]Heima is a development skeleton series designed to allow a faster starting for the JavaScript frameworks use.
+Heima for [Vue] allows you to get a quick start for your projects into powerful [Vue] framework.
 
 ## Starting
 Clone the repository in a local path.
@@ -90,4 +94,7 @@ MIT license.
 
 [Spanish]: https://github.com/onca-vega/Heima-Vue/blob/master/docs/README.md
 [semver]: https://semver.org/spec/v2.0.0.html
+[Heima-Vue]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/header.png
+[Heima]: https://github.com/onca-vega/Heima-Vue/blob/master/app/image/icon/favicon.png
+[Vue]: https://vuejs.org/
 [onca-vega]: https://github.com/onca-vega
