@@ -1,6 +1,6 @@
 ![Heima for Vue][Heima-Vue]Heima for [Vue]
 ============
-![Version](https://img.shields.io/badge/version-v0.1.4-orange.svg)
+![Version](https://img.shields.io/badge/version-v0.1.5-orange.svg)
 ## Translations
 * [Spanish]
 
